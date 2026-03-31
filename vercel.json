@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "https://cugkaickzu.aiforce.cloud/spark/faas/app_4ju04dg07d2v5/$1"
-    }
-  ]
-}
